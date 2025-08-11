@@ -29,4 +29,19 @@ This game is a hardware-level implementation that runs entirely on the FPGA, lev
 - Reset and pause functionality
 - Win/Loss condition handling
 
-## 🗂️ Repository Structure
+How To Run The files---------
+Open in Quartus
+Launch Intel Quartus Prime
+Open the .qpf project file located in quartus_project/
+Compile the project (Full Compilation)
+Program the FPGA
+Connect your DE10-Standard board via USB Blaster
+
+Use Quartus Programmer to load the .sof file located in output_files/ onto the board
+
+▶️ How to Play the Game
+To play the game:
+
+Simply run the .sof file on the board — no need to interact with any other files.
+
+The game starts automatically after programming. Control it using the onboard switches and keyboard.
