@@ -21,8 +21,6 @@ This game is a hardware-level implementation that runs entirely on the FPGA, lev
 
 ## 🎮 Game Features
 
-> _You can update this section with the actual features of your game._
-
 - Real-time interaction using push buttons and switches
 - VGA output for displaying game graphics
 - Score tracking via 7-segment display
@@ -45,3 +43,6 @@ To play the game:
 Simply run the .sof file on the board — no need to interact with any other files.
 
 The game starts automatically after programming. Control it using the onboard switches and keyboard.
+
+
+Note: Some original files, including the QAR project and files copyrighted by Technion – Israel Institute of Technology, have been removed. Only the SystemVerilog (.sv) source files written by us for this project are included.
