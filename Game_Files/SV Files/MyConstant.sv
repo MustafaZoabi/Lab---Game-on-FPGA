@@ -1,5 +1,4 @@
-// System-Verilog constant  dudy February 2025
-// (c) Technion IIT, Department of Electrical Engineering 2025 
+
 
 
 
@@ -12,5 +11,6 @@ module	MyConstant
 
 
 assign value = MyValue ;	 	 
+
 
 endmodule
